@@ -1,0 +1,12 @@
+[
+    {
+        "delivery_id": "DEL1001",
+        "po_number": "PO1001",
+        "delivered_items": [
+            {
+                "item_name": "face serum",
+                "quantity": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "total_amount": 1323.0,
+    "expected_gst": 238.14,
+    "invoice_gst": 238.14,
+    "gst_status": "VALID"
+}
