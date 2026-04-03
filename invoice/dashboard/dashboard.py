@@ -5,7 +5,7 @@ import plotly.express as px
 import json
 from pathlib import Path
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://automated-invoice-processing-and-verification-sy-production.up.railway.app"
 
 # GST verification file
 GST_FILE = Path("output/structured_data/gst_verification.json")
