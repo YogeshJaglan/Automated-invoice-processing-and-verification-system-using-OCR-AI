@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+paddleocr
+requests
+python-multipart
+pytesseract
+opencv-python
+pillow
+pdf2image
